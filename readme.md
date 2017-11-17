@@ -16,11 +16,3 @@ The following screenshot shows my App:
     <img src="Capture.PNG">
 
 </p>
-
-## What I have learned
-
-* How to use wikipedia API
-
-* Use jquery to mnipulate the response of Ajax call
-
-* deal with a bootstrap template 
