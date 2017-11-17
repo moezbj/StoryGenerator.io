@@ -13,8 +13,7 @@ Will generate another random silly story if you press the button again (and agai
 
 The following screenshot shows my App:
 <p align="center">
-    <img src="images/m1.png">
-    <img src="images/Capture.PNG">
+    <img src="Capture.png">
 
 </p>
 
